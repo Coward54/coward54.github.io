@@ -40,6 +40,11 @@ p, h3 {
     text-align: center;
 }
 
+.header-vk {
+    padding-left: 30px;
+    background-image: url("img/icon-email-header.svg");
+}
+
 .header-email {
     padding-left: 30px;
     background-image: url("img/icon-email-header.svg");
@@ -142,6 +147,10 @@ p, h3 {
 
 .postman {
     background-image: url("img/postman.png");
+}
+
+.idea {
+    background-image: url("img/idea.svg");
 }
 
 .git {
